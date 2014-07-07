@@ -7,9 +7,10 @@ Swift written in Playground with Xcode6-beta.
 
 ## Contents
 
-- [Simple Value](ControlFlow.playground)
-- [Control Flow](SimpleValue.playground)
+- [Simple Value](SimpleValue.playground)
+- [Control Flow](ControlFlow.playground)
 - [Functions and Closures](Functions&Closures.playground)
+- [Objects and Classes](Objects&Classes.playground)
 
 ## LICENSE
 
