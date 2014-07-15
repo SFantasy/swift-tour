@@ -11,6 +11,7 @@ Swift written in Playground with Xcode6-beta.
 - [Control Flow](ControlFlow.playground)
 - [Functions and Closures](Functions&Closures.playground)
 - [Objects and Classes](Objects&Classes.playground)
+- [Enumerations and Structures](Enumerations&&Structures.playground)
 
 ## LICENSE
 
