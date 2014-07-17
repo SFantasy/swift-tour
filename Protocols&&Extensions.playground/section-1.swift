@@ -54,3 +54,14 @@ var c = SimpleEnum.a
 c.simpleDescription
 c.adjust()
 c.simpleDescription
+
+// Write an extension for Double type that adds an absoluteValue property.
+extension Double {
+    var absoluteValue: Double {
+        return abs(self)
+    }
+}
+
+7.3.absoluteValue
+(-7.0).absoluteValue
+
