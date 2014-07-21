@@ -13,6 +13,7 @@ Swift written in Playground with Xcode6-beta.
 - [Objects and Classes](Objects&Classes.playground)
 - [Enumerations and Structures](Enumerations&&Structures.playground)
 - [Protocols and Extensions](Protocols&&Extensions.playground)
+- [Generics](Generics.playground)
 
 ## LICENSE
 
